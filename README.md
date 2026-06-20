@@ -1,6 +1,6 @@
 # Marcos Paulo
 
-**Desenvolvedor Front-End | MP Empreendimento | Caetité, BA**
+**Desenvolvedor Front-End | MP Empreendimento | Bom Jesus da Lapa, BA**
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ```js
 const MarcosPaulo = {
-  localização: "Caetité, Bahia — Brasil",
+  localização: "Bom Jesus da Lapa, Bahia — Brasil",
   foco:        "Desenvolvedor Front-End",
   status:      "Transformando conhecimento em código",
   empresa:     "MP Empreendimento",
